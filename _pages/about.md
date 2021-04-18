@@ -2,23 +2,16 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at the [New York University Tandon School of Engineering](https://engineering.nyu.edu), advised by [Ludovic Righetti](https://engineering.nyu.edu/faculty/ludovic-righetti) at the [Machines in Motion Laboratory](https://wp.nyu.edu/machinesinmotion/). My research interests include machine learning, control theory, and their applications to robotics. In particular, I would like to develop algorithms allowing robots to robustly apply contact forces to the external world, so that they can move freely and operate safely among us.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to joining NYU Tandon, I received my bachelor's and master's degree in Electrical Engineering from the [Technical University of Munich](https://www.tum.de). I also spent a year at the [Autonomous Motion Department](http://am.is.tuebingen.mpg.de) headed by [Stefan Schaal](https://am.is.tuebingen.mpg.de/person/sschaal) of the [Max Planck Institute for Intelligent Systems](https://is.mpg.de) conducting my master's thesis. Under the supervision of [Franziska Meier](https://am.is.tuebingen.mpg.de/person/fmeier), [Jeannette Bohg](https://am.is.tuebingen.mpg.de/person/jbohg) and [Ludovic Righetti](https://www.is.mpg.de/~lrighetti), I worked on associating sensor traces with motion primitives for robust robot grasping.
