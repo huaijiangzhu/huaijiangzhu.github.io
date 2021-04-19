@@ -7,4 +7,4 @@ nav: true
 ---
 
 ## ROB2004 Robotics Manipulation and Locomotion
-Teaching asssistant for 2020 Fall. Led lab sesssions and graded homework.
+Led lab sessions and graded homework for 2020 Fall.
