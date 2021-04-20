@@ -8,7 +8,7 @@ nav: true
 
 ## classes
  
-- Robotics Manipulation and Locomotion (Fall 2020)  
+- [Robotics Manipulation and Locomotion](https://github.com/righetti/ROB2004) (Fall 2020)  
     Led lab sessions and graded homework.
 - [NYU Tandon Summer Program for Machine Learning](https://github.com/huaijiangzhu/SummerML) (Summer 2020)  
     Co-instructed the classes, prepared course materials, and led lab sessions.
