@@ -10,6 +10,8 @@ nav: true
  
 - Robotics Manipulation and Locomotion (Fall 2020)  
     Led lab sessions and graded homework.
+- [NYU Tandon Summer Program for Machine Learning](https://github.com/huaijiangzhu/summer_ml) (Summer 2020)  
+    Co-instructed the classes, prepared course materials, and led lab sessions.
 
 ## student projects
 
