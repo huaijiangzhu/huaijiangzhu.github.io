@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>诸怀疆 | Huaijiang Zhu</title>
+<title>诸怀疆 | Huaijiang Zhu | teaching</title>
 <meta name="description" content="PhD student at NYU.
 ">
 
@@ -31,7 +31,7 @@
 
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/teaching/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -105,6 +105,8 @@
           
           
           
+          
+          
           <li class="nav-item ">
               <a class="nav-link" href="/publications/">
                 publications
@@ -114,9 +116,11 @@
           
           
           
-          <li class="nav-item ">
+          <li class="nav-item active">
               <a class="nav-link" href="/teaching/">
                 teaching
+                
+                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -143,18 +147,45 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">teaching</h1>
+    <p class="post-description"></p>
+  </header>
+
+  <article>
+    <h2 id="classes">classes</h2>
+
+<ul>
+  <li><a href="https://github.com/righetti/ROB2004">Robotics Manipulation and Locomotion</a> (Fall 2020)<br />
+  Led lab sessions and graded homework.</li>
+  <li><a href="https://github.com/huaijiangzhu/SummerML">NYU Tandon Summer Program for Machine Learning</a> (Summer 2020)<br />
+  Co-instructed the classes, prepared course materials, and led lab sessions.</li>
+</ul>
+
+<h2 id="student-projects">student projects</h2>
+
+<p>I am always glad to advise motivated students on independent research projects. If you find any topics listed below interesting, or if you have some cool ideas in your mind, simply send me an Email with your CV and transcripts.</p>
+
+<h4 id="open">open</h4>
+
+<ul>
+  <li>currently not available</li>
+</ul>
+
+<h4 id="ongoing">ongoing</h4>
+
+<ul>
+  <li>
+    <p>Differentiable Robot Dynamics (with Vincent Lu)</p>
+
+    <p>The goal of this project is to implement forward/inverse dynamics algorithms (ABA/RNEA) that are auto-differentiable with respect to the model parameters (link geometry/mass/inertia) and the generalized coordinates/velocities/accelerations using <a href="https://pytorch.org/">Pytorch</a> or <a href="https://opensource.google/projects/jax">JAX</a>. Such models allow convenient system identification via Gradient Descent while being able to provide uncertainty estimates when trained in ensembles. If time permits, students can also integrate such models into a reinforcement learning framework to simultaneously learn policies and interpretable robot dynamics models.</p>
+
+    <p><strong>Prerequisites:</strong> Python, Robotics, Multivariable Calculus</p>
+  </li>
+</ul>
 
 
-  <ul class="post-list">
-    
-  </ul>
-
-  
-
+  </article>
 
 </div>
 
